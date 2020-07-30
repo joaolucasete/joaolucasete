@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on [Tinygo](https://github.com/tinygo-org/tinygo)
 
-- 👨‍💻 All of my projects are available at [( developing )](( developing ))
+- 👨‍💻 All of my projects are available at ( developing )
 
-- 📝 I regulary write articles on [( wait )](( wait ))
+- 📝 I regulary write articles on ( wait )
 
 - 💬 Ask me about **embedded development or other things**
 
